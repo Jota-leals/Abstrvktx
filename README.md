@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan Leal Salazar
 - 👀 I’m interested in Data Analisys for Finance and Economy
-- 🌱 I’m currently learning Data Analisys and Machine Learning
-- 💞️ I’m looking to collaborate on Data Analisys for Economy Projects
+- 🌱 I’m currently learning Data Analisys and Machine Learning with Python
+- 💞️ I’m looking to collaborate on Data Analisys for Economy and Finance Projects
 - 📫 How to reach me jleals.1145@gmail.com
 
 <!---
